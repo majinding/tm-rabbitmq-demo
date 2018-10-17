@@ -1,2 +1,2 @@
 # tm-rabbitmq-demo
-https://www.majingjing.cn   
+rabbitmq demo
